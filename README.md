@@ -1,6 +1,6 @@
 # wap-ceiling
 
-## 移动端吸顶方案 ```position: fixed```
+## 移动端吸顶方案 ```position: sticky```
 
 通过 **position: fixed** 属性，移动端吸顶，但兼容性差
 
